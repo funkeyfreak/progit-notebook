@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/funkeyfreak/pro-git/master)
 # Welcome
 Welcome to Git Good: a collection of interactive tutorials centered on git usability.
 
