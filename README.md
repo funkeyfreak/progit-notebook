@@ -1,4 +1,11 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/funkeyfreak/pro-git/master)
+[![Binder][binder]][binder-repo-url]
+[![Mergify Status][mergify-status]][mergify]
+
+[binder]: https://mybinder.org/badge_logo.svg
+[binder-repo-url]: https://mybinder.org/v2/gh/funkeyfreak/progit-notebook/master?urlpath=lab
+[mergify]: https://mergify.io
+[mergify-status]: https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/funkeyfreak/progit-notebook&style=flat
+
 # Welcome
 Welcome to Git Good: a collection of interactive tutorials centered on git usability.
 
